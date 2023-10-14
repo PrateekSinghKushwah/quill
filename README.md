@@ -1,2 +1,2 @@
-# quill
-A modern fullstack SAAS platform
+# quill - A modern fullstack SAAS platform
+
